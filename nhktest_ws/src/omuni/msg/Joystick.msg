@@ -1,0 +1,4 @@
+float32 left_joy_x
+float32 left_joy_y
+float32 right_joy_x
+float32 right_joy_y

@@ -1,0 +1,3 @@
+float32 motor1_duty
+float32 motor2_duty
+float32 motor3_duty
